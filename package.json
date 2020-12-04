@@ -1,0 +1,12 @@
+{
+  "name": "marver",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
